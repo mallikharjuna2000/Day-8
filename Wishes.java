@@ -24,4 +24,6 @@ public class Wishes {
 
 	}
 
-}
+}// positve or negative or zero.
+// talktime less than 100 minutes basic plan talktime >100 and <300 
+// standsard plan >300 and<500 premiumj plan >500 unlimited plan.
